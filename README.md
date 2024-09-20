@@ -1,5 +1,6 @@
 # Hi, I'm Ali Mar Ngom! 🎓
 
+[Check out my portfolio](https://www.devcase.me/alimar440)
 I'm a computer engineering student specializing in software engineering and data management at Université Gaston Berger, Senegal.
 
 ## About Me
