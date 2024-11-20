@@ -6,7 +6,7 @@ I'm a computer engineering student specializing in software engineering and data
 
 ## About Me
 
-- 🌟 Passionate about software development and data management.
+- 🌟 Passionate about software development .
 - 💻 Proficient in advanced C and C++.
 - 🌐 Experienced in HTML, CSS, and SQL.
 - 📚 Currently learning JavaScript.
