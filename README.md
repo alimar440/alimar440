@@ -1,6 +1,6 @@
 # Hi, I'm Ali Mar Ngom! 🎓
 
-[Check out my portfolio](https://www.devcase.me/alimar440) 
+
 
 I'm a computer engineering student specializing in software engineering and data management at Université Gaston Berger, Senegal.
 
@@ -10,7 +10,7 @@ I'm a computer engineering student specializing in software engineering and data
 - 💻 Proficient in advanced C and C++.
 - 🌐 Experienced in HTML, CSS, and SQL.
 - 📚 Currently learning JavaScript.
-- 📈 Constantly expanding my knowledge and skills in programming and technology.
+- You can contact me at  [Email](mailto:alingom2018@gmail.com)
 
 ## Skills
 
@@ -29,13 +29,6 @@ I'm a computer engineering student specializing in software engineering and data
 
 - [Projet de gestion de base de données](https://github.com/alimar440/Projet-gestion-database-): A project focused on database management.
 - Check out [TurboSearch](https://github.com/alimar440/TurboSearch), a C++ application using Qt for efficient car management with hash tables and PostgreSQL.
-
-
-## Get in Touch
-
-- [Email](mailto:alingom2018@gmail.com)
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate.
 
 ## Languages and Tools
 
