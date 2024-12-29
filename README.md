@@ -17,7 +17,7 @@ I'm a computer engineering student specializing in software engineering and data
 - **Programming Languages:** C, C++
 - **Web Development:** HTML, CSS, JavaScript , php (learning)
 - **Databases:** SQL
-- **Frameworks:** Qt
+- **Frameworks:** Qt , flutter
 
 ## Education
 
