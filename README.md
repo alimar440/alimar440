@@ -15,7 +15,7 @@ I'm a computer engineering student specializing in software engineering and data
 ## Skills
 
 - **Programming Languages:** C, C++
-- **Web Development:** HTML, CSS, JavaScript (learning)
+- **Web Development:** HTML, CSS, JavaScript , php (learning)
 - **Databases:** SQL
 - **Frameworks:** Qt
 
