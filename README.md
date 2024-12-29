@@ -8,8 +8,8 @@ I'm a computer engineering student specializing in software engineering and data
 
 - 🌟 Passionate about software development .
 - 💻 Proficient in advanced C and C++.
-- 🌐 Experienced in HTML, CSS, and SQL.
-- 📚 Currently learning JavaScript.
+- 🌐 Experienced in HTML, CSS, JavaScript ,and SQL.
+- 📚 Currently learning flutter.
 - You can contact me at  [Email](mailto:alingom2018@gmail.com)
 
 ## Skills
