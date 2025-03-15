@@ -25,10 +25,6 @@ I'm a computer engineering student specializing in software engineering and data
   - Computer Engineering
   - Specialization: Software Engineering and Data Management
 
-## Projects
-
-- [Projet de gestion de base de données](https://github.com/alimar440/Projet-gestion-database-): A project focused on database management.
-- Check out [TurboSearch](https://github.com/alimar440/TurboSearch), a C++ application using Qt for efficient car management with hash tables and PostgreSQL.
 
 ## Languages and Tools
 
