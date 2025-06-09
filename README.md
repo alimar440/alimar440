@@ -8,16 +8,16 @@ I'm a computer engineering student specializing in software engineering and data
 
 - 🌟 Passionate about software development .
 - 💻 Proficient in advanced C and C++.
-- 🌐 Experienced in HTML, CSS, JavaScript,java,and SQL ,Angular.
-- 📚 Currently learning Laravel .
+- 🌐 Experienced in HTML, CSS, JavaScript,java,and SQL ,Laravel.
+- 📚 Currently learning Angular .
 - You can contact me at  [Email](mailto:alingom2018@gmail.com)
 
 ## Skills
 
 - **Programming Languages:** C, C++
-- **Web Development:** HTML, CSS, JavaScript , php (learning)
+- **Web Development:** HTML, CSS, JavaScript , php 
 - **Databases:** SQL
-- **Frameworks:** Qt , flutter
+- **Frameworks:** Qt , flutter ,Laravel
 
 ## Education
 
